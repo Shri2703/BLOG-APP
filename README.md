@@ -1,6 +1,6 @@
 # BLOG-APP!!!
 
-#Simple Blogging  website done by react.js
+#Simple Blogging  website done by react.js.
 
 #it's the basic uI i have set the default blog content
 
